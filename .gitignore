@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary Jupyter notebooks
+Untitled*.ipynb
+
+# Large datasets (if you don’t want to track them)
+*.csv
+
+# Output files
+*.png
+*.txtø
